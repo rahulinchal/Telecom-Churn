@@ -6,6 +6,13 @@ EDA on Telecom Churn
 # Data Description
 ![data description](https://user-images.githubusercontent.com/111626329/225087846-40fb6dc9-fdaf-430f-a5e8-45001ab03dd1.png)
 
+# Observation 
+1. The service calls of customers varies from 0 to 9. <br>
+2. Those customers who make more service calls they have a high probability of leaving. <br>
+3. As we can see from graph , customers with more than 5, their churning rate is more. <br>
+4. Hence customers who make more than 5 service calls, their queries should be solved immediately and they should be given better service so that they dont leave the company. <br>
+5. Customers with four or more customer service calls churn more than four times as often as do the other customers. <br>
+
 # Conclusion
 The telecommunications market is already well-established, and the rate of new customers is slow. As a result, companies in this industry prioritize retention and reducing customer churn. This project analyzed a churn dataset to identify the main factors contributing to churn and gain valuable insights. Through exploratory data analysis, we were able to gain insight into the churn dataset, listed below:
 
