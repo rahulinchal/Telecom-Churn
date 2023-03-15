@@ -1,6 +1,9 @@
 # Telecom-Churn
 EDA on Telecom Churn
 
+# Problem Statement
+Telecom churn analysis is the process of identifying customers who are likely to cancel their service or switch to a different service provider. This is an important problem for telecom companies, as churn can have a significant impact on their revenue and profitability.
+
 ![qachgtc5b5uy1i3ovbv7](https://user-images.githubusercontent.com/111626329/225087795-af730392-9e52-420a-833a-f83768cd4348.png)
 
 # Data Description
